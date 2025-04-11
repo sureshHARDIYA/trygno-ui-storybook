@@ -1,0 +1,1 @@
+function e(r){return r&&r.toString().replace(/\B(?=(\d{3})+(?!\d))/g," ")}function n(r){return r&&r.length>0?r.replace(/\bKr\b/g,"kroner").replace(/\bkr\b/g,"kroner").replace(/\bMnd\b/g,"måned").replace(/\bmnd\b/g,"måned"):""}export{e as f,n as r};
