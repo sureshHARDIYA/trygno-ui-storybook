@@ -1,0 +1,1 @@
+import{r as t,h as s,H as e}from"./iframe-AlOlJGHC.js";const a=":host{display:block}:host ul{padding:0;margin:0}",o=class{constructor(r){t(this,r)}render(){return s(e,{key:"a24cbb8544af5fdfdfb2a96006acf2cb453757e0",role:"list"},s("slot",{key:"0e6c591378c57a7c3ed58ef0d65a8f868563e5c5"}))}};o.style=a;export{o as trygno_list_wrapper};
