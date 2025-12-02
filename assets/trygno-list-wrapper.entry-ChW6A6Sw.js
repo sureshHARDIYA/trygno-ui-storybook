@@ -1,0 +1,1 @@
+import{r as t,h as s,H as e}from"./iframe-DFWwc32C.js";import"./preload-helper-D9Z9MdNV.js";const o=":host{display:block}:host ul{padding:0;margin:0}",a=class{constructor(r){t(this,r)}render(){return s(e,{key:"fe2256495ebc19b61d18f179f8aa32d3dc16d03a",role:"list"},s("slot",{key:"a50a855b5f5b9e00e2280895e8552e8d842e63f2"}))}};a.style=o;export{a as trygno_list_wrapper};
