@@ -1,0 +1,1 @@
+import{r as t,h as s,H as e}from"./iframe-DB-w-suX.js";import"./preload-helper-D9Z9MdNV.js";const o=":host{display:block}:host ul{padding:0;margin:0}",a=class{constructor(r){t(this,r)}render(){return s(e,{key:"a24cbb8544af5fdfdfb2a96006acf2cb453757e0",role:"list"},s("slot",{key:"0e6c591378c57a7c3ed58ef0d65a8f868563e5c5"}))}};a.style=o;export{a as trygno_list_wrapper};
